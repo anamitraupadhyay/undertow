@@ -15,7 +15,7 @@
  *  See the License for the specific language governing permissions and
  *  limitations under the License.
  */
-package io.undertow.examples.routing;
+package io.undertow.examples.routingserver;
 
 import io.undertow.Handlers;
 import io.undertow.Undertow;
